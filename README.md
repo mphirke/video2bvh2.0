@@ -6,6 +6,8 @@ Uses [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) to cro
 
 ![Demo gif](media/rough_demo.gif)
 
+Input video is [Man dancing on rooftop](https://www.pexels.com/video/man-dancing-on-rooftop-2795750/) by [cottonbro](https://www.pexels.com/@cottonbro). The bvh on the left is lagging slightly behind the video on the right. Will upload better demo videos later.
+
 To Do:
 
  - [ ] Apply filters to smoothen the wobblyness
