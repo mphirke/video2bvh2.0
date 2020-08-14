@@ -16,13 +16,12 @@ To Do:
 
 **References:**
 
-[Dene33's video to bvh](https://github.com/Dene33/video_to_bvh)
-[hmr by akanazawa](https://github.com/akanazawa/hmr)
-[Russoale's hmr2.0](https://github.com/russoale/hmr2.0)
-[Openpose](
-https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-[Openpose Colab notebook by tugstugi](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/OpenPose.ipynb)
-[Dene33's fork of hmr](https://github.com/Dene33/hmr)
+[Dene33's video to bvh](https://github.com/Dene33/video_to_bvh)  
+[hmr by akanazawa](https://github.com/akanazawa/hmr)  
+[Russoale's hmr2.0](https://github.com/russoale/hmr2.0)  
+[Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)  
+[Openpose Colab notebook by tugstugi](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/OpenPose.ipynb)  
+[Dene33's fork of hmr](https://github.com/Dene33/hmr) 
 
 **hmr citation:**
 ```
