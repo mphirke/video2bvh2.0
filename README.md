@@ -1,6 +1,6 @@
 
 # video2bvh2.0
-https://github.com/Dene33/video_to_bvh's but with python 3 and tensorflow2.0
+https://github.com/Dene33/video_to_bvh but with python 3 and tensorflow2.0
 
 Uses [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) to crop frames around a single person and then uses [hmr2.0](https://github.com/russoale/hmr2.0) by [Russoale](https://github.com/russoale) to get 3D pose keypoints. Then, using [Dene33](https://github.com/Dene33/)'s fork of [hmr](https://github.com/Dene33/hmr), the 3D pose keypoints are converted to bvh.
 
